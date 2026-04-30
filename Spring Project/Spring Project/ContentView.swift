@@ -24,7 +24,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             
-            Text("My name is Ja'Den Traylor and I am 16 years old. I go to Pinole Valley High School co 2028")
+            Text("Hi my name is Ja'Den Traylor and I am 16 years old. I go to Pinole Valley High School co 2028. You could probaly tell by the photo but if not I play football for Pinole.")
         }
         .padding()
     }
