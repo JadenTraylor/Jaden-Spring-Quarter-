@@ -17,14 +17,14 @@ struct ContentView: View {
                 
               
               
-            Text("football")
+            Text("Ja'Den Traylor")
             
             
             Image(systemName: "american.football.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             
-            Text("Hi my name is Ja'Den Traylor and I am 16 years old. I go to Pinole Valley High School co 2028. You could probaly tell by the photo but if not I play football for Pinole.")
+            Text("Hi my name is Ja'Den Traylor and I am 16 years old. I go to Pinole Valley High School co 2028. I am a athlete who loves to try new things and try to improve.")
         }
         .padding()
     }
